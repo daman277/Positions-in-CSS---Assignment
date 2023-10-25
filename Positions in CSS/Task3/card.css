@@ -1,0 +1,16 @@
+.card {
+    padding: 10px;
+    background-color: lightgreen;
+    border-radius: 5px;
+}
+
+.image {
+    float: right;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.card-image {
+    height: 180px;
+    width: 200px;
+    padding: 10px;
+}
